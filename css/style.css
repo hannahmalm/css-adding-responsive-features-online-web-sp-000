@@ -96,7 +96,7 @@ iframe {
 }
 
 .border-right {
-  border-right: 1px dotted #ccc;
+  border-right: 0px dotted #ccc;
   padding-right: 30px;
 }
 
