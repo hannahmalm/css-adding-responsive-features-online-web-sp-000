@@ -9,5 +9,9 @@
 }
 
 
-@media (min-width:900px) {body
+@media (min-width:900px) {body {text: 85%;}}
+#logo h1 {
+  height:35px;
+  width:35px;
+}
 @media (min-width:750px)
