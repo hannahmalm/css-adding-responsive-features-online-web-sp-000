@@ -185,7 +185,10 @@ img, video, audio, iframe, table, form {
   column-gap: 1.5em;
   -moz-column-count: 3;
   -webkit-column-count: 3;
-  column-count: 2;
+  column-count: 1;
+  float:none;
+  left:0;
+  width: 100%;
 }
 
 [class*="col-"] {
