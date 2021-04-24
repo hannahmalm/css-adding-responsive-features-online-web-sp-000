@@ -171,8 +171,9 @@ img, video, audio, iframe, table, form {
 }
 
 .col-2 {
-  float: left;
-  width: 66%;
+  float:none;
+  left:0;
+  width: 100%;
 }
 
 .col-3 p {
