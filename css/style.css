@@ -160,15 +160,14 @@ img, video, audio, iframe, table, form {
 /*/////// LAYOUT ////////*/
 
 .wrapper {
-  width: 100%;
-  left:0;
-  float:none ;
+  width: 960px;
   margin: 0 auto;
 }
 
 .col-1 {
-  float: left;
-  width: 32%;
+  float:none;
+  left:0;
+  width: 100%;
 }
 
 .col-2 {
