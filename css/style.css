@@ -189,7 +189,7 @@ img, video, audio, iframe, table, form {
   float:none;
   left:0;
   width: 100%;
-  .border-right: 0;
+
 }
 
 [class*="col-"] {
