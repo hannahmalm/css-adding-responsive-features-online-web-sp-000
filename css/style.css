@@ -160,7 +160,9 @@ img, video, audio, iframe, table, form {
 /*/////// LAYOUT ////////*/
 
 .wrapper {
-  width: 960px;
+  width: 100%;
+  left:0;
+  float:none ;
   margin: 0 auto;
 }
 
